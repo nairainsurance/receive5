@@ -3619,7 +3619,7 @@
     },
     "receive5": {
       "settings": {
-        "title": "receive5",
+        "title": "receive",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -4333,7 +4333,7 @@
           },
           "title": "<p>&nbsp; &nbsp; Receive N40,000 payment from:</p>",
           "text": "call your downline for payment<br>NOTE: do not force your downline to make payment to you, they will be blocked after 24 hours on resfusal to make payment",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Name:Okoro Gozie<br>Phone number: 08034564324<br>Amount: N40,000<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3060-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">CONFIRM PAYMENT</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID:N20,000<br>AMOUNT RECEIVE N00.00<br>REFERRAL BONUS: N00.00</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span><br>Name:Ade Yemisi<br>Phone number: 08034564324<br>Amount: N40,000<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://www.poppydog.com/survey.do?args=63ba23a9-3060-c8a193555866-45938-sa-t\" data-toolbar=\"-mbrBtnMove\">CONFIRM PAYMENT</a>    <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://\" data-toolbar=\"-mbrBtnMove\">AMOUNT PAID:N20,000<br>AMOUNT RECEIVE N00.00<br>REFERRAL BONUS: N00.00</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"http://\" data-toolbar=\"-mbrBtnMove\">please dont force anybody to make payment to you for we realise there are fake participants who came into the system to discourage others so once your downline refuse to pay relax for we will rematch you after 24 hours. Thanks for your understanding</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://nairainsurance.yn.lt/login\" data-toolbar=\"-mbrBtnMove\">log out</a> "
         }
       ]
     }
